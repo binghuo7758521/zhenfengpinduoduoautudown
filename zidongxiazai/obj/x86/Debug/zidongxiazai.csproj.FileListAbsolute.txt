@@ -1,0 +1,13 @@
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\bin\Debug\zidongxiazai.exe
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\bin\Debug\zidongxiazai.pdb
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\zidongxiazai.Form1.resources
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\zidongxiazai.Properties.Resources.resources
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\zidongxiazai.exe
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\zidongxiazai.pdb
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\bin\Debug\zidongxiazai.exe.manifest
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\bin\Debug\zidongxiazai.application
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\zidongxiazai.exe.manifest
+D:\work\git\pinduoduo\autodown\拼多多自动下载\zidongxiazai\obj\x86\Debug\zidongxiazai.application

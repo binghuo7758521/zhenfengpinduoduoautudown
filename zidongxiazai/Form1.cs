@@ -33,7 +33,7 @@ namespace zidongxiazai
             downdir = ConfigurationManager.AppSettings["downdir"];
             if (downdir==null)
             {
-                downdir = "d:\\autodown\\";
+                downdir = "e:\\autodown\\";
             }
             if (!Directory.Exists(downdir))
             {

@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zidongxiazai.exe" size="10752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zidongxiazai.exe" size="11776">
       <assemblyIdentity name="zidongxiazai" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8gbPijr39ZeIqq0ETXdBysMU7l4=</dsig:DigestValue>
+        <dsig:DigestValue>Gh3O1WrA2Fc/zGeLtaXHNjVefdE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
